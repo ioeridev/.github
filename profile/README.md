@@ -1,5 +1,5 @@
 ## Hi there 👋  welcome to the ***ioeri*** documentation.
-### ***ioeri*** is "leading", (pronounced /yori/, `🔊` like "iori" spoken Yoruba).
+### ***ioeri*** it's means leading, (pronounced /yori/, `🔊` like "iori" spoken Yoruba).
 
 <!--
 
