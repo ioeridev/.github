@@ -15,7 +15,7 @@ You can guide or [join our community](https://github.com/ioeridev/ioeri/blob/mai
 - The ui projects we build are not to be competitors or substitutes but rather to complete the specific needs that are common to users.
 - `ioericsspreset` will allow that to happen and work fine by adding configuration to `postcss.config.js`.
 
-See the documentation and how it works.
+See the [documentation](https://github.com/ioeridev/ioeripresetcss) and how it works.
 
 <!--
 
