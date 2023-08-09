@@ -9,6 +9,14 @@
 
 You can guide or [join our community](https://github.com/ioeridev/ioeri/blob/main/CONTRIBUTING.md) to build multi-functional polymorphic projects.
 
+## [ioericsspreset - style css preset](https://github.com/ioeridev/ioeripresetcss)
+
+- ioeri components work in their own style, but some aspects require compatibility with other ui.
+- The ui projects we build are not to be competitors or substitutes but rather to complete the specific needs that are common to users.
+- `ioericsspreset` will allow that to happen and work fine by adding configuration to `postcss.config.js`.
+
+See the documentation and how it works.
+
 <!--
 
 **Here are some ideas to get you started:**
