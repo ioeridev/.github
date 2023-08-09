@@ -1,6 +1,14 @@
 ## Hi there 👋  welcome to the ***ioeri*** documentation.
 ### ***ioeri*** it's means leading, pronounced /yori/, `🔊` like "iori" spoken Yoruba.
 
+## [core - component ui repository](https://github.com/ioeridev/ioeri/tree/core)
+
+- How do we build a component independently without depending on other components.
+- How does a polymorphic component carry valid properties for itself.
+- Complicated but fun to use.
+
+You can guide or [join our community](https://github.com/ioeridev/ioeri/blob/main/CONTRIBUTING.md) to build multi-functional polymorphic projects.
+
 <!--
 
 **Here are some ideas to get you started:**
