@@ -1,4 +1,4 @@
-## 👋 Welcome to `ioeri` documentation.
+## ioeri documentation.
 ### *ioeri* it's means leading, pronounced /yori/, `🔊` like "iori" spoken Yoruba.
 
 ## [core - component ui repository](https://github.com/ioeridev/ioeri/tree/core)
