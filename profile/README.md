@@ -1,5 +1,5 @@
-## Hi there 👋  welcome to the ***ioeri*** documentation.
-### ***ioeri*** it's means leading, pronounced /yori/, `🔊` like "iori" spoken Yoruba.
+## 👋 Welcome to `ioeri` documentation.
+### *ioeri* it's means leading, pronounced /yori/, `🔊` like "iori" spoken Yoruba.
 
 ## [core - component ui repository](https://github.com/ioeridev/ioeri/tree/core)
 
@@ -9,7 +9,7 @@
 
 You can guide or [join our community](https://github.com/ioeridev/ioeri/blob/main/CONTRIBUTING.md) to build multi-functional polymorphic projects.
 
-## [ioericsspreset - style css preset](https://github.com/ioeridev/ioeri-preset-css)
+## [ioeri-preset-css - styles css preset](https://github.com/ioeridev/ioeri-preset-css)
 
 - ioeri components work in their own style, but some aspects require compatibility with other ui.
 - The ui projects we build are not to be competitors or substitutes but rather to complete the specific needs that are common to users.
