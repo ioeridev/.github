@@ -6,11 +6,11 @@
 
 <h1 align="center"><strong>ioeri Documentation.</strong></h1>
 
-<p align="center">
+<h3 align="center">
   <b>
     <code>ioeri</code> it's means leading, pronounced /yori/, <code>🔊</code> like 'iori' spoken Yoruba.
   </b>
-</p>
+</h3>
 
 
 
@@ -28,7 +28,7 @@
 - How does a polymorphic component carry valid properties for itself.
 - Complicated but fun to use.
 
-You can guide or [join our community](https://github.com/ioeridev/ioeri/blob/main/CONTRIBUTING.md) to build multi-functional polymorphic projects.
+> You can guide or [join our community](https://github.com/ioeridev/ioeri/blob/main/CONTRIBUTING.md) to build multi-functional polymorphic projects.
 
 ## [ioeri-preset-css - styles css preset](https://github.com/ioeridev/ioeri-preset-css)
 <div align="left">
@@ -44,7 +44,7 @@ You can guide or [join our community](https://github.com/ioeridev/ioeri/blob/mai
 - The ui projects we build are not to be competitors or substitutes but rather to complete the specific needs that are common to users.
 - `ioericsspreset` will allow that to happen and work fine by adding configuration to `postcss.config.js`.
 
-See the [documentation](https://github.com/ioeridev/ioeri-preset-css) and how it works.
+> See the [documentation](https://github.com/ioeridev/ioeri-preset-css) and how it works.
 
 <!--
 
