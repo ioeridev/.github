@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.npmjs.com/org/ioeri">
-    <img src="./ioeri-256px.png" alt="ioeri" height="200" />
+    <img src="https://raw.githubusercontent.com/ioeridev/.github/35379c44c85be33cab4346ace80bfd6d85764dea/profile/ioeri-256px.png" alt="ioeri" height="200" />
   </a>
 </div>
 
