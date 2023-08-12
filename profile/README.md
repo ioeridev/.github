@@ -60,6 +60,22 @@
 - The utility functions of class string groups and conditionals.
 
 > See the [documentation](https://github.com/ioeridev/cn-ex) and how it works.
+
+## [ioeri-icons - Popular brand and unpopularity icons](https://github.com/ioeridev/ioeri-icons)
+
+<div align="left">
+  <a href="https://www.npmjs.com/package/ioeri-icons">
+    <img src="https://badgen.net/npm/v/ioeri-icons" alt="version" />
+  </a>
+  <a href="https://npmjs.org/package/ioeri-icons">
+    <img src="https://badgen.now.sh/npm/dm/ioeri-icons" alt="downloads" />
+  </a>
+</div>
+
+- Popular brand and unpopularity icons for React app.
+
+> See the [documentation](https://github.com/ioeridev/ioeri-icons) and how it works.
+
 <!--
 
 **Here are some ideas to get you started:**
