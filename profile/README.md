@@ -46,6 +46,20 @@
 
 > See the [documentation](https://github.com/ioeridev/ioeri-preset-css) and how it works.
 
+## [cn-ex - className extend](https://github.com/ioeridev/cn-ex)
+
+<div align="left">
+  <a href="https://www.npmjs.com/package/cn-ex">
+    <img src="https://badgen.net/npm/v/cn-ex" alt="version" />
+  </a>
+  <a href="https://npmjs.org/package/cn-ex">
+    <img src="https://badgen.now.sh/npm/dm/cn-ex" alt="downloads" />
+  </a>
+</div>
+
+- The utility functions of class string groups and conditionals.
+
+> See the [documentation](https://github.com/ioeridev/cn-ex) and how it works.
 <!--
 
 **Here are some ideas to get you started:**
