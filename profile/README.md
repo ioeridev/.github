@@ -32,10 +32,10 @@
 
 ## [ioeri-presetcss - styles css preset](https://github.com/ioeridev/ioeri-presetcss)
 <div align="left">
-  <a href="https://www.npmjs.com/package/ioeri-preset-css">
+  <a href="https://www.npmjs.com/package/ioeri-presetcss">
     <img src="https://badgen.net/npm/v/ioeri-presetcss" alt="version" />
   </a>
-  <a href="https://npmjs.org/package/ioeri-preset-css">
+  <a href="https://npmjs.org/package/ioeri-presetcss">
     <img src="https://badgen.now.sh/npm/dm/ioeri-presetcss" alt="downloads" />
   </a>
 </div>
