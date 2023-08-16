@@ -30,13 +30,13 @@
 
 > You can guide or [join our community](https://github.com/ioeridev/ioeri/blob/main/CONTRIBUTING.md) to build multi-functional polymorphic projects.
 
-## [ioeri-preset-css - styles css preset](https://github.com/ioeridev/ioeri-preset-css)
+## [ioeri-presetcss - styles css preset](https://github.com/ioeridev/ioeri-presetcss)
 <div align="left">
   <a href="https://www.npmjs.com/package/ioeri-preset-css">
-    <img src="https://badgen.net/npm/v/ioeri-preset-css" alt="version" />
+    <img src="https://badgen.net/npm/v/ioeri-presetcss" alt="version" />
   </a>
   <a href="https://npmjs.org/package/ioeri-preset-css">
-    <img src="https://badgen.now.sh/npm/dm/ioeri-preset-css" alt="downloads" />
+    <img src="https://badgen.now.sh/npm/dm/ioeri-presetcss" alt="downloads" />
   </a>
 </div>
 
