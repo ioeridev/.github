@@ -44,7 +44,7 @@
 - The ui projects we build are not to be competitors or substitutes but rather to complete the specific needs that are common to users.
 - `ioericsspreset` will allow that to happen and work fine by adding configuration to `postcss.config.js`.
 
-> See the [documentation](https://github.com/ioeridev/ioeri-preset-css) and how it works.
+> See the [documentation](https://github.com/ioeridev/ioeri-presetcss) and how it works.
 
 ## [cn-ex - className extend](https://github.com/ioeridev/cn-ex)
 
