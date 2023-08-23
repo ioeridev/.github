@@ -14,7 +14,7 @@
 
 
 
-## [core - component ui repository](https://github.com/ioeridev/ioeri/tree/core)
+## [core - component ui repository](https://github.com/ioeridev/ioeri)
 <div align="left">
   <a href="https://www.npmjs.com/package/ioeri">
     <img src="https://badgen.net/npm/v/ioeri" alt="version" />
@@ -28,7 +28,7 @@
 - How does a polymorphic component carry valid properties for itself.
 - Complicated but fun to use.
 
-> You can guide or [join our community](https://github.com/ioeridev/ioeri/blob/main/CONTRIBUTING.md) to build multi-functional polymorphic projects.
+> You can guide or [join our community](https://github.com/ioeridev/ioeri/blob/master/CONTRIBUTING.md) to build multi-functional polymorphic projects.
 
 ## [ioeri-presetcss - styles css preset](https://github.com/ioeridev/ioeri-presetcss)
 <div align="left">
