@@ -8,7 +8,7 @@
 
 <h3 align="center">
   <b>
-    <code>ioeri</code> it's means leading, pronounced /yori/, <code>🔊</code> like 'iori' spoken Yoruba.
+    <code>ioeri</code> it's means leading, pronounced /yori/, <code>🔊</code> like 'iori'.
   </b>
 </h3>
 
